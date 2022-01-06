@@ -15,11 +15,6 @@ This website helps people to find required healthcare services in their local ci
 Primary Azure Technology*:
 Virtual Machines, Networking, Azure Disk Storage
 
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-my azure account id: singhrahul46988@gmail.com
-password (login via github): mail: singhrahul46988@gmail.com
-                             pass: rahulsingh12123
                              
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I am not able to upload codes because my laptop does not support github desktop (64 bit) thats why I have given direct link of my web app made in azure VM (do check my azure account for proof). login credintials are given above
