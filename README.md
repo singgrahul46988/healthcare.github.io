@@ -16,7 +16,5 @@ Primary Azure Technology*:
 Virtual Machines, Networking, Azure Disk Storage
 
                              
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-I am not able to upload codes because my laptop does not support github desktop (64 bit) thats why I have given direct link of my web app made in azure VM (do check my azure account for proof). login credintials are given above
-Please consider my project. Thank you.....
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
